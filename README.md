@@ -5,3 +5,9 @@
 - 🌐 I'm Enthusiastic about building interactive and visually appealing web applications.
 - 🌱 I’m currently learning React and Typescript
 - 📫 How to reach me: amanabridget03@gmail.com
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bridgetamana&theme=highcontrast)](https://git.io/streak-stats)
