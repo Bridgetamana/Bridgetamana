@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Bridget
 I'm a front-end developer with an eye for design.
-- 👀 I'm interested in **Web design and Cybersecurity.**
+- 👀 I'm interested in **Web design.**
 
 - 🌱 I’m currently learning **Redux and Typescript**
   
