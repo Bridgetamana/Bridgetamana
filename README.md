@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Bridgetamana
+- 🌱 I’m currently learning Vue.js
+- 📫 How to reach me [Twitter](https://x.com/bridget_amana/)
