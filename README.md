@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Bridgetamana
-- 🌱 I’m currently learning JavaScript again
 - 📫 How to reach me [Twitter](https://x.com/bridget_amana/)
+- Tech stack: Javascript, React.js, Next.js, Framer motion, ...tbd
