@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Bridgetamana
+- 👋 Hi, I’m @Bridgetamana. A technical writer and Frontend developer.
 - 📫 How to reach me [Twitter](https://x.com/bridget_amana/)
 - Tech stack: Javascript, React.js, Next.js, Framer motion, ...tbd
