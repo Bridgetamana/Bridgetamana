@@ -24,6 +24,6 @@ I build fast, accessible web interfaces and write clear, technical documentation
 
 ## Connect
 
-- **Twitter:** [@bridget_amana](https://x.com/bridget_amana/)
-- **LinkedIn:** [Bridget Amana](Https://www.linkedin.com/in/bridget-amana/)*
+- **Twitter:** [@bridget_amana](https://twitter.com/amana_bridget)
+- **LinkedIn:** [Bridget Amana](https://www.linkedin.com/in/bridget-amana/)
 
