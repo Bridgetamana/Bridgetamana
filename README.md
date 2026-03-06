@@ -1,16 +1,15 @@
 # Hi 👋, I'm Bridget Amana
-I'm a Frontend Engineer, open sourcerer, writer and a bit more. I am currently obsessing over web performance and animation. For me, it's about building things that look good and feel fast.
 
-- I'm currently working on **Neobrutalui**
+I'm a Frontend Engineer transitioning into Open Source AI Strategy and 
+Developer Advocacy. I also write about it so others can learn alongside me 
+[Personal blog](https://www.bridgetamana.me/blog)
+[Devto](https://dev.to/bridget_amana)
 
-- I'm looking to collaborate on **open source projects**
+Currently obsessing over the open source ecosystem: the tools, the 
+debates, and everything it involves.
 
-- How to reach me **amanabridget03@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/bridgetamana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bridgetamana" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bridget-amana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bridget-amana" height="30" width="40" /></a>
-<a href="https://twitter.com/bridget_amana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bridget_amana" height="30" width="40" /></a>
-</p>
-
+- Currently working on [NeobrutalUI](https://www.neobrutalui.live/) & exploring open source AI tools
+- Currently learning **Hugging Face, Ollama, LangChain & AI fundamentals**
+- Open to collaborating on **open source projects**
+- I write about **open source and AI**
+- Reach me at amanabridget03@gmail.com
