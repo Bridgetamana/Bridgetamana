@@ -1,2 +1,4 @@
-- Currently working on [NeobrutalUI](https://www.neobrutalui.live/) & exploring open source AI tools
-- Reach me at amanabridget03@gmail.com
+- Currently working on [NeobrutalUI](https://www.neobrutalui.live/) & exploring open-source AI tools
+- I Write about open-source topics
+- I am open to maintaining projects alongside you
+- Reach out on x(formerly twitter) @bridget_amana
