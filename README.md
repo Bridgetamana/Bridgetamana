@@ -7,4 +7,3 @@
 - [Neobrutal ui](https://www.neobrutalui.live/)
 - [Pinboard](https://pinboard.bridgetamana.me/)
 - [Snippetshot](https://snippetshot.bridgetamana.me/)
-- [Academia](https://academia-lms-one.vercel.app/)
